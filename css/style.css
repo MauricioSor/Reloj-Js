@@ -34,15 +34,61 @@ h2 {
 	font-family: 'Rajdhani', sans-serif;
 	color: white;
 }
-.text-defecto{
-	
-}
+
+	.text-blue{
+		text-shadow: 0 0 5px #236dde,
+		0 0 10px #236dde,
+		0 0 15px #236dde,
+		0 0 25px #236dde,
+		0 0 30px #236dde,
+		0 0 45px #236dde,
+		0 0 50px #236dde,
+		0 0 65px #236dde,
+		0 0 75px #236dde,
+		0 0 85px #236dde,
+		0 0 95px #236dde,
+		0 0 100px #236dde;
+	}
+
 .text-yellow{
-
+	text-shadow: 0 0 5px #ded823,
+	0 0 10px #ded823,
+	0 0 15px #ded823,
+	0 0 25px #ded823,
+	0 0 30px #ded823,
+	0 0 45px #ded823,
+	0 0 50px #ded823,
+	0 0 65px #ded823,
+	0 0 75px #ded823,
+	0 0 85px #ded823,
+	0 0 95px #ded823,
+	0 0 100px #ded823;
 }
-.text-blue{
-
+.text-defecto{
+	text-shadow: 0 0 5px #fbfbfb,
+	0 0 10px #fbfbfb,
+	0 0 15px #fbfbfb,
+	0 0 25px #fbfbfb,
+	0 0 30px #fbfbfb,
+	0 0 45px #fbfbfb,
+	0 0 50px #fbfbfb,
+	0 0 65px #fbfbfb,
+	0 0 75px #fbfbfb,
+	0 0 85px #fbfbfb,
+	0 0 95px #fbfbfb,
+	0 0 100px #fbfbfb;
 }
 .text-red{
-
+	text-shadow: 0 0 5px #f70909,
+	0 0 10px #f70909,
+	0 0 15px #f70909,
+	0 0 25px #f70909,
+	0 0 30px #f70909,
+	0 0 45px #f70909,
+	0 0 50px #f70909,
+	0 0 65px #f70909,
+	0 0 75px #f70909,
+	0 0 85px #f70909,
+	0 0 95px #f70909,
+	0 0 100px #f70909;
 }
