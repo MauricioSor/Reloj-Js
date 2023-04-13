@@ -1,14 +1,48 @@
-		body{
-			width: 100%;
-			height: 100vh;
-			color: #fff;
-			background: linear-gradient(45deg,red,blue,green,black);
-			background-size: 400% 400%;
-			position: relative;
-			animation: cambiar 10s ease-in-out infinite;
-		}
-		@keyframes cambiar{
-			0%{background-position: 0 50%;}
-			50%{background-position: 100% 50%;}
-			100%{background-position: 0 50%;}
-		}
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap');
+
+body {
+	width: 100%;
+	min-height: 100vh;
+	color: #fff;
+	background: linear-gradient(45deg, red, blue, green, black);
+	background-size: 400% 400%;
+	position: relative;
+	animation: cambiar 10s ease-in-out infinite;
+	display: flex;
+	flex-direction: column;
+}
+
+@keyframes cambiar {
+	0% {
+		background-position: 0 50%;
+	}
+
+	50% {
+		background-position: 100% 50%;
+	}
+
+	100% {
+		background-position: 0 50%;
+	}
+}
+
+main {
+	flex-grow: 1;
+}
+
+h2 {
+	font-family: 'Rajdhani', sans-serif;
+	color: white;
+}
+.text-defecto{
+	
+}
+.text-yellow{
+
+}
+.text-blue{
+
+}
+.text-red{
+
+}
